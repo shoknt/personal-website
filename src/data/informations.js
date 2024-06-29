@@ -1,11 +1,11 @@
 const me = {
-  name: "Mert",
-  nickname: "mertushka",
+  name: "shok",
+  nickname: "shoknt",
   bio: "I started programming at a young age, and I am improving myself every day.",
-  status: "Backend Developer",
+  status: "bot discord developer",
   keywords: [
-    "mertushka",
-    "mert",
+    "shoknt",
+    "chok",
     "portfolio",
     "mertushka.pw",
     "mertushka portfolio",
@@ -22,7 +22,7 @@ const details = [
   },
   {
     title: "Email",
-    value: "contact@mertushka.pw",
+    value: "shok@shok.rf.gd",
   },
   {
     title: "Freelance",
