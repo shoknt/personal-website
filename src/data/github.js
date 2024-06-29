@@ -1,3 +1,3 @@
-const url = "https://github.com/mertushka";
+const url = "https://github.com/shoknt";
 
 export default url;
