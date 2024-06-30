@@ -2,7 +2,7 @@ import Lanyard from "../hooks/lanyard";
 
 import Image from "next/image";
 
-import Logo from "https://cdn.discordapp.com/attachments/924654781446897694/1256975485255024772/20240429_091440.jpg?ex=6682b925&is=668167a5&hm=9e9b82b93b16cce4ec8edff6edbe2e5c1900e76ab32a6bb958067a79fb2b56ec&";
+import Logo from "../../public/logo.webp";
 
 import { Rubik } from "next/font/google";
 
