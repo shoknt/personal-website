@@ -12,7 +12,7 @@ export default function Head() {
       />
       <meta name="keywords" content={me.keywords} />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png" />
+      <link rel="apple-touch-icon" sizes="57x57" href="https://media.discordapp.net/attachments/924654729475268629/1256985756816244848/7871-discord-staff.png?ex=6682c2b6&is=66817136&hm=1febd35b59e6fb76f3932d25b815c5a86cfec3c3fbe3aae41e23744bf62dd70b&" />
       <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png" />
       <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png" />
       <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png" />
@@ -45,7 +45,7 @@ export default function Head() {
         rel="icon"
         type="image/png"
         sizes="192x192"
-        href="/android-icon-192x192.png"
+        href="https://media.discordapp.net/attachments/924654729475268629/1256985756816244848/7871-discord-staff.png?ex=6682c2b6&is=66817136&hm=1febd35b59e6fb76f3932d25b815c5a86cfec3c3fbe3aae41e23744bf62dd70b&"
       />
       <link
         rel="icon"
