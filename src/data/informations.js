@@ -2,7 +2,7 @@ const me = {
   name: "shok",
   nickname: "shoknt",
   bio: "I started programming at a young age, and I am improving myself every day.",
-  status: "bot discord developer",
+  status: "bot discord developer, Full-time Community Manager, also full-time dog parent.",
   keywords: [
     "shoknt",
     "chok",
