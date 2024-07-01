@@ -1,13 +1,13 @@
 const education = [
   {
-    date: "2019 - 2023",
+    date: "",
     title: "High School",
-    value: "Completed high school studies and graduated.",
+    value: "Unfortunately, I did not study but participated in the GED test.",
   },
   {
-    date: "2023 - Present",
+    date: "",
     title: "University",
-    value: "Currently pursuing studies at the university level.",
+    value: "I studied at university about cyber security.",
   },
 ];
 
